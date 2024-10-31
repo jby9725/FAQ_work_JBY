@@ -37,11 +37,11 @@
 		<table class="table" border="1" cellspacing="0" cellpadding="5" style="width: 100%; border-collapse: collapse;">
 			<thead>
 				<tr>
-					<th style="text-align: center;">ID</th>
-					<th style="text-align: center;">Registration Date</th>
-					<th style="text-align: center;">Title</th>
-					<th style="text-align: center;">Body</th>
-					<th style="text-align: center;">Writer</th>
+					<th style="text-align: center;">번호</th>
+					<th style="text-align: center;">작성일</th>
+					<th style="text-align: center;">제목</th>
+					<th style="text-align: center;">내용</th>
+					<th style="text-align: center;">작성자</th>
 				</tr>
 			</thead>
 			<tbody>
